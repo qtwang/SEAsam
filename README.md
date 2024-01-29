@@ -7,14 +7,14 @@ This repository contains code to sample time series efficiently from a large-sca
 Install as a Python module:
 
 ``` bash
-python python setup.py build_py_mod 
+python setup.py build_py_mod 
 pip install .
 ```
 
 If you need a shared library, run:
 
 ``` bash
-python python setup.py build_lib 
+python setup.py build_lib 
 ```
 
 An example usage Jupyter notebook is provided at [example/seasam_example.ipynb](https://github.com/qtwang/SEAsam/blob/main/example/seasam_example.ipynb)
