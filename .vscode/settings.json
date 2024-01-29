@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "random": "c",
+        "__locale": "c",
+        "chrono": "c",
+        "functional": "c"
+    }
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+    }
+}
