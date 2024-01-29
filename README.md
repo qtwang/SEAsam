@@ -32,4 +32,4 @@ An example usage Jupyter notebook is provided at [example/seasam_example.ipynb](
 }
 ```
 
-If you find SEAsam sampling useful, please make sure to cite also the original SEAnet papers: [[bibtex]](https://dblp2.uni-trier.de/rec/conf/kdd/WangP21.bib?param=1)
+If you find SEAsam sampling useful, please make sure to cite also the original SEAnet paper (where SEAsam is proposed): [[bibtex]](https://dblp2.uni-trier.de/rec/conf/kdd/WangP21.bib?param=1)
